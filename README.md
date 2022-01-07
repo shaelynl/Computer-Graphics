@@ -1,5 +1,5 @@
 # Computer-Graphics
-This is where I stored my projects for a Computer Graphics mod I took.
+This is where I store my projects for a Computer Graphics mod I took.
 ## Lab 1
 Make randomly-colored and -sized circles bounce around a 2D-screen.
 ## Lab 2
